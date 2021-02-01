@@ -1,2 +1,9 @@
-# test-nus-2021-02-01
-This is a test project for DevOps Fintech Course with Github
+# This is a headline!
+
+## This is a smaller headline
+
+Welcome, here are some normal text. Lorem ipsum.
+
+* List item 1
+* List item 2
+* List item 3
